@@ -1,3 +1,3 @@
 <?php
-define('DB_FILE', __DIR__ . '/data/user.json');
+define('DB_FILE', __DIR__ . '/data/users.json');
 
