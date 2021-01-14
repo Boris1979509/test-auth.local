@@ -12,8 +12,6 @@ if (isset($_SESSION['auth'])) {
     exit();
 }
 
-include_once('../const.php'); // Const
-
 /**
  * @param array $message
  * @param string $url
